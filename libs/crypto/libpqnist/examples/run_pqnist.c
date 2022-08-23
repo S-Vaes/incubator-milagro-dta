@@ -28,6 +28,7 @@
 #include <amcl/randapi.h>
 #include <amcl/bls_BLS381.h>
 #include <oqs/oqs.h>
+#include <oqs/kem_sike.h>
 #include <amcl/pqnist.h>
 
 #define G2LEN 4*BFS_BLS381
